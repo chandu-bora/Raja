@@ -5,6 +5,8 @@ public class File {
 	{
 		edited in Remote Repository
         edited in lOCAL Repository
+			edited in branch
+			edited branch file in spring
 	}
 
 }
